@@ -47,7 +47,7 @@
 
 
 ## Contents
-**(1) CovidDeaths.csv**
+**(1)** [**CovidDeaths.csv**](https://github.com/jarrodtky/Malaysia_Covid19_SQL/tree/e4d916b7b373de0442ee143f610799b1a5f62689/Malaysia_Covid19_SQL_Results)
   - Dataset Containing COVID-19 deaths and information in Malaysia in CSV format.
 
 **(2) CovidVaccinations.csv**
@@ -73,6 +73,6 @@
 
 
 ## Credits
-- Took inspiration from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/yeanzc/malaysia-covid19-dataset)https://www.kaggle.com/datasets/yeanzc/malaysia-covid19-dataset) and [Our World In Data](https://ourworldindata.org/covid-deaths).
+- Took inspiration from [Kaggle](https://www.kaggle.com/datasets/yeanzc/malaysia-covid19-dataset) and [Our World In Data](https://ourworldindata.org/covid-deaths).
 
 
