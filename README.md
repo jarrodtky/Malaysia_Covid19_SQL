@@ -51,13 +51,14 @@
 
 ## Contents
 **(1)** [**CovidDeaths.csv**](https://github.com/jarrodtky/Malaysia_Covid19_SQL/blob/5178ae97fe40789515117feb6a7d4b061f747fc1/CovidDeaths.csv)
-    - Dataset Containing COVID-19 deaths and information in Malaysia in CSV format.
+- Dataset Containing COVID-19 deaths and information in Malaysia in CSV format.
+
 
 **(2)** [**CovidVaccinations.csv**](https://github.com/jarrodtky/Malaysia_Covid19_SQL/blob/5178ae97fe40789515117feb6a7d4b061f747fc1/CovidVaccinations.csv)
-    - Dataset Containing COVID-19 vaccinations and information in Malaysia in CSV format.
+- Dataset Containing COVID-19 vaccinations and information in Malaysia in CSV format.
 
 **(3)** [**Malaysia_Covid19_SQL_Results Folder**](https://github.com/jarrodtky/Malaysia_Covid19_SQL/tree/e4d916b7b373de0442ee143f610799b1a5f62689/Malaysia_Covid19_SQL_Results)
-    - Contains the main SQL file with implementation codes, results, and discussion for the project.
+- Contains the main SQL file with implementation codes, results, and discussion for the project.
 
 
 
