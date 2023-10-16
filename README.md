@@ -40,9 +40,9 @@
 
 
 ### Aim & Objective(s)
-- Aim:
+- **Aim:**
     - To analyze and understand the Malaysia COVID-19 dataset for a comprehensive view of the outbreak's status from March 2020 to November 2022.
-- Objective(s): 
+- **Objective(s):** 
     - Calculate metrics and describe the trends related to deaths and vaccinations due to COVID-19 in Malaysia.
     - Provide insights into the death rates, infection rates, and vaccination statuses over the period, supporting public health decisions and strategies.
     - Utilize SQL schema languages for data extraction and analysis, emphasizing the application of data modeling in understanding real-world challenges.
